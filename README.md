@@ -1,7 +1,7 @@
 # Chambers
 
 Description -
-  While teaching my high school students Python, one of them asked me if it were possible to make a "Russian Roulette" game. His question was more of a ponderance on Python's capabilities, but I accepted as a challenge.
+  While teaching my high school students Python, one of them asked me if it were possible to make a "Russian Roulette" game. His question was more of a ponderance on Python's capabilities, but I accepted it as a challenge.
   "Chambers" is simply a game that follows Russian Roulette. It will serve as a party game of sorts as it will allow players to have more than one participant and those participants can choose either to shoot the person next
   to them, spin the chamber before they pull the trigger on themselves, or do so without spinning the chamber.
 
